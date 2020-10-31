@@ -4,5 +4,4 @@ Simple Live Sketching Application to show a live sketch of Webcam feed. Develope
 To get started you need too install OpenCV and Numpy first. 
 
 pip install opencv-python --user
-
 pip install numpy --user
